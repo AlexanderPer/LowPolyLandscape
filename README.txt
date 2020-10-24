@@ -1,9 +1,6 @@
 Procedural low poly landscape
 =========
 
-The MIT License
-Copyright (c) 2020 Alexander Perepelitsa
-
 Random generated interactive landscape. Developed using Unity.
 
 Camera movement: WASD
